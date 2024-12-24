@@ -1,4 +1,4 @@
 # daprarchitect
 
-Hello world!!
+Hello world!
 
